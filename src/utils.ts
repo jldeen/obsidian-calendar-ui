@@ -6,7 +6,6 @@ import type {
   IDot,
   IEvaluatedMetadata,
   IMonth,
-  ISourceSettings,
   IWeek,
 } from "./types";
 

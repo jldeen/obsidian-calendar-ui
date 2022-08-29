@@ -1,5 +1,5 @@
 import type { Locale, Moment } from "moment";
-import type { App, TFile } from "obsidian";
+import type { App } from "obsidian";
 import { SvelteComponentTyped } from "svelte";
 
 export type ILocaleOverride = "system-default" | string;
